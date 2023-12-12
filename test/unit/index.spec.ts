@@ -8,7 +8,7 @@ import {
   range,
 } from "../../src/index.js";
 import * as sinon from "sinon";
-import { expect } from "../lib/configured-expect.js";
+import { expect } from "@infra-blocks/test";
 
 describe("iter", function () {
   describe(range.name, function () {

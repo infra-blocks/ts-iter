@@ -4,8 +4,7 @@
   "description": "Iteration utilities library.",
   "keywords": [
     "iteration",
-    "iter",
-    "utilities"
+    "iter"
   ],
   "repository": {
     "type": "git",

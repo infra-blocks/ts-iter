@@ -1,6 +1,6 @@
 {
   "name": "@infra-blocks/iter",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "description": "Iteration utilities library.",
   "keywords": [
     "iteration",
